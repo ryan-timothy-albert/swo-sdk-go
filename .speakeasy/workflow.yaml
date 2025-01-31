@@ -19,3 +19,4 @@ targets:
             labelOverride:
                 fixedValue: Go (SDK)
             blocking: false
+            output: codeSamples.yaml
