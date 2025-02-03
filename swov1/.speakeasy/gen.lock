@@ -3,15 +3,18 @@ id: 211f109d-fefa-4e6d-8a41-db1221672b8a
 management:
   docChecksum: ac81c31243b35bc067e3bcfda35c1811
   docVersion: 1.0.2
-  speakeasyVersion: 1.478.1
-  generationVersion: 2.498.4
-  releaseVersion: 0.0.3
-  configChecksum: 13de45431bf8d1360fd1e23bddcecdcb
+  speakeasyVersion: 1.481.1
+  generationVersion: 2.500.5
+  releaseVersion: 0.0.4
+  configChecksum: 5dd65dd1f83c45ee0ccf6d3bdae504de
+  repoURL: https://github.com/ryan-timothy-albert/swo-sdk-go.git
+  repoSubDirectory: swov1
+  installationURL: https://github.com/ryan-timothy-albert/swo-sdk-go/swov1
 features:
   go:
     additionalDependencies: 0.1.0
     constsAndDefaults: 0.1.6
-    core: 3.6.11
+    core: 3.6.12
     defaultEnabledRetries: 0.2.0
     devContainers: 2.90.0
     envVarSecurityUsage: 0.3.2

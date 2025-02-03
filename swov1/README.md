@@ -45,7 +45,7 @@ SolarWinds Observability: SolarWinds Observability REST API
 
 To add the SDK as a dependency to your project:
 ```bash
-go get github.com/solarwinds/swo-sdk-go/swov1
+go get github.com/ryan-timothy-albert/swo-sdk-go/swov1
 ```
 <!-- End SDK Installation [installation] -->
 
